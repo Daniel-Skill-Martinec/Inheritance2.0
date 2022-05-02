@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Skill Unlocked\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Skill Unlocked\\.nuget\\packages"
+    ]
+  }
+}
